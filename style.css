@@ -1,0 +1,93 @@
+#about{
+    height: 300px;
+}
+
+
+body {
+    font-family: Arial, sans-serif; background-color: white;
+
+  }
+  
+  nav {
+    background-color: rgb(68, 67, 67);
+    color: white;
+    padding: 20px;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    text-align: right;
+    
+  }
+  
+  nav ul li {
+    display: inline;
+    margin-right: 50px;
+   
+  }
+  
+  nav ul li a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  section {
+    padding: 20px;
+    margin: 20px 0;
+  }
+  
+  section#about {
+    background-color: white;
+  }
+  
+  section#projects {
+    background-color: white;
+  }
+  
+  section#contact {
+    background-color: white;
+  }
+ 
+  .image {
+    width: 350px; 
+    height: 450px;
+    position: absolute;
+    right: 0;
+    padding: 50px;
+    margin-left: 300px;
+   
+      }
+      /* Your existing styles */
+
+footer {
+    background-color: #333;
+    color: white;
+    padding: 50px;
+    text-align: center;
+  }
+  
+  footer #contact {
+    background-color: transparent; 
+    text-align: left;
+    padding: 10px;
+  
+  }
+  
+  footer #contact ul {
+    list-style-type: none;
+    padding: 0;
+    text-align: left;
+    
+  }
+  
+  footer #contact li {
+    margin-right: 10px;
+  }
+  
+  footer #contact a {
+    color: white;
+    text-decoration: none;
+  }
+  
+
+  
